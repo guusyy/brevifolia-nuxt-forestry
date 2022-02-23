@@ -25,7 +25,7 @@ sections:
   path: content/data/config.json
   label: Site Info
 upload_dir: perplex
-public_path: https://res.cloudinary.com/djwitcyyb/image/upload/v1645629079
+public_path: https://res.cloudinary.com/djwitcyyb/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"

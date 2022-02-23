@@ -1,4 +1,9 @@
 ---
 label: Homepage
 hide_body: true
-fields: []
+fields:
+- name: header_title
+  type: text
+  config:
+    required: false
+  label: Header title
